@@ -8,6 +8,10 @@ import org.firstinspires.ftc.robotcore.external.Telemetry;
 /**
  * Created by Evan McLoughlin on 12/23/2019.
  */
+
+//TODO: Figure out how best to properly structure the base robot
+//      to make it as interoperable as possible
+
 public abstract class subSystem {
 
     protected robot robotName;
